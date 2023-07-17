@@ -9,10 +9,22 @@
         "name": "16.19.0",
         "url": "https://nodejs.org/dist/v16.19.0/node-v16.19.0-win-x64.zip" 
     },{
+        "name": "16.20.1",
+        "url": "https://nodejs.org/dist/v16.20.1/node-v16.20.1-win-x64.zip" 
+    },{
         "name": "17.9.1",
         "url": "https://nodejs.org/dist/v17.9.1/node-v17.9.1-win-x64.zip" 
     },{
         "name": "18.14.0",
         "url": "https://nodejs.org/dist/v18.14.0/node-v18.14.0-win-x64.zip" 
+    },{
+        "name": "18.16.1",
+        "url": "https://nodejs.org/dist/v18.16.1/node-v18.16.1-win-x64.zip" 
+    },{
+        "name": "19.9.0",
+        "url": "https://nodejs.org/dist/v19.9.0/node-v19.9.0-win-x64.zip" 
+    },{
+        "name": "20.4.0",
+        "url": "https://nodejs.org/dist/v20.4.0/node-v20.4.0-win-x64.zip" 
     }
 ]
