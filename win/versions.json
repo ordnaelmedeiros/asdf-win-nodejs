@@ -26,5 +26,8 @@
     },{
         "name": "20.4.0",
         "url": "https://nodejs.org/dist/v20.4.0/node-v20.4.0-win-x64.zip" 
+    },{
+        "name": "20.15.1",
+        "url": "https://nodejs.org/dist/v20.15.1/node-v20.15.1-win-x64.zip" 
     }
 ]
